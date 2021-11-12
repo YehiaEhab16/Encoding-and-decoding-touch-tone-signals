@@ -1,9 +1,9 @@
-MATLAB GUI to generate and plot any song in frequency and time domain, and filter it from any noise.
+MATLAB GUI to encode and decode signals by DTMF.
 
-FM_lab.m is just the concept code.
+Lab1.m is just the concept code.
 
-Project.m and Project.fig are the GUI files.
+DTMF.m and DTMF.fig are the GUI files.
 
-eric.wav is just a test song, you can also inport any song of your choice.
+The rest m files are functions called by GUI.
 
-Yehia Ehab
+##Yehia Ehab
